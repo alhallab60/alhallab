@@ -17,12 +17,7 @@ body  {
     background-position: center;
     background-attachment: fixed;
 
-    margin: 0;
-    padding: 20px;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+   
 }
 
 h1 {
