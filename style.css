@@ -12,10 +12,16 @@ html {
 
 body  {
     background-image: url('alhallab.png');
-    background-size: 400px;
+    background-size: 650px;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
    
 }
